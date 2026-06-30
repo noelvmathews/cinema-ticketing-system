@@ -1,0 +1,1 @@
+-- MySQL Database Schema for Cinema Ticketing System
